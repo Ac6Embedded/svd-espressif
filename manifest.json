@@ -1,0 +1,124 @@
+{
+  "vendor": "Espressif",
+  "generated": "2026-07-19",
+  "sources": [
+    {
+      "name": "espressif/svd",
+      "url": "https://github.com/espressif/svd",
+      "version": "be20aa12560889d6125d144cdb48cf615ac17628",
+      "license": "Apache-2.0",
+      "files": 11
+    },
+    {
+      "name": "esp-rs/esp-pacs",
+      "url": "https://github.com/esp-rs/esp-pacs",
+      "version": "30cb7c50e0a9516a222c96b70588f8930c7d4c12",
+      "license": "MIT OR Apache-2.0",
+      "files": 3
+    }
+  ],
+  "files": [
+    {
+      "path": "ESP32/esp32.svd",
+      "device": "esp32",
+      "family": "ESP32",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32C2/esp32c2.svd",
+      "device": "esp32c2",
+      "family": "ESP32C2",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32C3/esp32c3.svd",
+      "device": "esp32c3",
+      "family": "ESP32C3",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32C5/esp32c5.svd",
+      "device": "esp32c5",
+      "family": "ESP32C5",
+      "source": "esp-rs/esp-pacs",
+      "provenance": "community"
+    },
+    {
+      "path": "ESP32C6/esp32c6.svd",
+      "device": "esp32c6",
+      "family": "ESP32C6",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32C61/esp32c61.svd",
+      "device": "esp32c61",
+      "family": "ESP32C61",
+      "source": "esp-rs/esp-pacs",
+      "provenance": "community"
+    },
+    {
+      "path": "ESP32C6LP/esp32c6-lp.svd",
+      "device": "esp32c6-lp",
+      "family": "ESP32C6LP",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32H2/esp32h2.svd",
+      "device": "esp32h2",
+      "family": "ESP32H2",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32P4/esp32p4.svd",
+      "device": "esp32p4",
+      "family": "ESP32P4",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32S2/esp32s2.svd",
+      "device": "esp32s2",
+      "family": "ESP32S2",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32S2ULP/esp32s2-ulp.svd",
+      "device": "esp32s2-ulp",
+      "family": "ESP32S2ULP",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32S3/esp32s3.svd",
+      "device": "esp32s3",
+      "family": "ESP32S3",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    },
+    {
+      "path": "ESP32S31/esp32s31.svd",
+      "device": "esp32s31",
+      "family": "ESP32S31",
+      "source": "esp-rs/esp-pacs",
+      "provenance": "community"
+    },
+    {
+      "path": "ESP32S3ULP/esp32s3-ulp.svd",
+      "device": "esp32s3-ulp",
+      "family": "ESP32S3ULP",
+      "source": "espressif/svd",
+      "provenance": "pristine"
+    }
+  ],
+  "stats": {
+    "total_files": 14,
+    "total_bytes": 31943978
+  }
+}

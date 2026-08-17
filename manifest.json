@@ -1,6 +1,6 @@
 {
   "vendor": "Espressif",
-  "generated": "2026-08-10",
+  "generated": "2026-08-17",
   "sources": [
     {
       "name": "espressif/svd",
@@ -12,9 +12,9 @@
     {
       "name": "esp-rs/esp-pacs",
       "url": "https://github.com/esp-rs/esp-pacs",
-      "version": "2a19e3e2877702d9921981504a6ebe12a0f499d0",
+      "version": "131062119ca2460b625c1c118f2f7c16137598d7",
       "license": "MIT OR Apache-2.0",
-      "files": 3
+      "files": 4
     }
   ],
   "files": [
@@ -75,6 +75,13 @@
       "provenance": "pristine"
     },
     {
+      "path": "ESP32H4/esp32h4.svd",
+      "device": "esp32h4",
+      "family": "ESP32H4",
+      "source": "esp-rs/esp-pacs",
+      "provenance": "community"
+    },
+    {
       "path": "ESP32P4/esp32p4.svd",
       "device": "esp32p4",
       "family": "ESP32P4",
@@ -118,7 +125,7 @@
     }
   ],
   "stats": {
-    "total_files": 14,
-    "total_bytes": 31943978
+    "total_files": 15,
+    "total_bytes": 36191703
   }
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Espressif",
-  "generated": "2026-11-02",
+  "generated": "2026-11-09",
   "sources": [
     {
       "name": "espressif/svd",
@@ -12,7 +12,7 @@
     {
       "name": "esp-rs/esp-pacs",
       "url": "https://github.com/esp-rs/esp-pacs",
-      "version": "dda1003b1fe2f043e9ce45b3cefc324ab505cfdc",
+      "version": "61f9678dd039f76d692aac19f42be8c0bf0457e7",
       "license": "MIT OR Apache-2.0",
       "files": 4
     }
